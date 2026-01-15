@@ -71,6 +71,11 @@ Liver diseases such as hepatitis, fibrosis, and cirrhosis are difficult to detec
 
 ---
 
+## Model Deployed on Render
+Link: https://liver-disease-classification-vy6p.onrender.com
+
+---
+
 ## 🚀 How to Run the Project
 
 ### 1️⃣ Install Dependencies
