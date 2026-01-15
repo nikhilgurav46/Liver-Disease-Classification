@@ -104,6 +104,7 @@ streamlit run app.py
 
 * SMOTE is applied **only during training**, not during prediction.
 * Class imbalance is a key challenge in medical datasets and is handled carefully.
+* The Final Model Selected was **Gradient Boost**
 
 ---
 
